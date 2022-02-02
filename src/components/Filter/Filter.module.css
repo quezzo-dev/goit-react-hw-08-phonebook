@@ -1,0 +1,19 @@
+.label {
+  text-shadow: 1px 1px 1px silver, -1px 1px 1px silver;
+  color: white;
+  font-size: 22px;
+}
+
+.input {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  background: rgba 255, 255, 255, 0.5;
+  appearance: none;
+  outline: none;
+  color: #000;
+  text-align: center;
+  margin-left: 5px;
+  margin-bottom: 25px;
+  width: 250px;
+}

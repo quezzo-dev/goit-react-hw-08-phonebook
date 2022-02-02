@@ -1,0 +1,21 @@
+.btn {
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  color: #000;
+  margin-left: 15px;
+  border-radius: 5px;
+  font-size: 12px;
+  letter-spacing: 2px;
+  background: #fff;
+  background-size: 200% auto;
+  transition: 0.5s;
+  height: 25px;
+}
+
+.btn:hover {
+  background-position: right center;
+}
+.ave {
+  font-size: 13px;
+}
