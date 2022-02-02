@@ -1,4 +1,3 @@
-import generalImage from "../../images/cloud.png";
 import s from "./HomeView.module.css";
 
 export default function HomeView() {
